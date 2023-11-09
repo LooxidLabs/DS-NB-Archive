@@ -1,0 +1,110 @@
+,user_id,focus_timer_id,phase,activity_type,name,label
+0,64f02e44db83ec994f4458ac,65408cbd0d097eeb1f710f5d,1,Baseline + Main task,공지현,focus
+1,64f02e44db83ec994f4458ac,65408db40d097eeb1f710ffe,1,Post task,공지현,normal
+2,64f02e44db83ec994f4458ac,65408e1b0d097eeb1f711079,1,Post task 2,공지현,normal
+3,652f34b24a72cfe31e937188,654066330d097eeb1f70ffc1,1,Baseline + Main task,남궁석,focus
+4,652f34b24a72cfe31e937188,654067780d097eeb1f71011c,1,Post task,남궁석,normal
+5,652f34b24a72cfe31e937188,654067cd0d097eeb1f710181,1,Post task 2,남궁석,normal
+6,64f02e44db83ec994f4458ac,654080420d097eeb1f71052d,1,Baseline + Main task,이정환,focus
+7,64f02e44db83ec994f4458ac,6540816b0d097eeb1f710691,1,Post task,이정환,normal
+8,64f02e44db83ec994f4458ac,654081b50d097eeb1f7106f4,1,Post task 2,이정환,normal
+9,64f02e44db83ec994f4458ac,654093370d097eeb1f7115db,1,Baseline + Main task,노가람,focus
+10,64f02e44db83ec994f4458ac,654094390d097eeb1f7116a6,1,Post task,노가람,normal
+11,64f02e44db83ec994f4458ac,654094af0d097eeb1f71172f,1,Post task 2,노가람,normal
+12,6520b92087cd1e07b476c618,65409abb0d097eeb1f711afd,1,Baseline + Main task,박건영,focus
+13,6520b92087cd1e07b476c618,65409b7c0d097eeb1f711b9c,1,Post task,박건영,normal
+14,6520b92087cd1e07b476c618,65409bcd0d097eeb1f711c07,1,Post task 2,박건영,normal
+15,64f02e44db83ec994f4458ac,6540a96e0d097eeb1f7122c0,1,Baseline + Main task,김보현,focus
+16,64f02e44db83ec994f4458ac,6540aa540d097eeb1f712337,1,Post task,김보현,normal
+17,64f02e44db83ec994f4458ac,6540aaa20d097eeb1f712372,1,Post task 2,김보현,normal
+18,651ce5a42c5d960f70ea2cb6,6540b2e40d097eeb1f71276d,1,Baseline + Main task,박종화,focus
+19,651ce5a42c5d960f70ea2cb6,6540b3e50d097eeb1f71281b,1,Post task,박종화,normal
+20,651ce5a42c5d960f70ea2cb6,6540b46d0d097eeb1f712850,1,Post task 2,박종화,normal
+21,6530ca13cac8ae0cdd40e573,6541e4320d097eeb1f71362a,1,Baseline + Main task,유영석,focus
+22,6530ca13cac8ae0cdd40e573,6541e53e0d097eeb1f7136d1,1,Post task,유영석,normal
+23,6530ca13cac8ae0cdd40e573,6541e5890d097eeb1f713706,1,Post task 2,유영석,normal
+24,64f02e44db83ec994f4458ac,6541ea960d097eeb1f7139ac,1,Baseline + Main task,김주영,focus
+25,64f02e44db83ec994f4458ac,6541eb8a0d097eeb1f713a49,1,Post task,김주영,normal
+26,64f02e44db83ec994f4458ac,6541eb8a0d097eeb1f713a49,1,Post task 2,김주영,normal
+27,65252f59ef0765a24be49f8c,6541f4da0d097eeb1f713cf3,1,Baseline + Main task,이영규,focus
+28,65252f59ef0765a24be49f8c,6541f5df0d097eeb1f713d9d,1,Post task,이영규,normal
+29,65252f59ef0765a24be49f8c,6541f65b0d097eeb1f713dd6,1,Post task 2,이영규,normal
+0,64f02e44db83ec994f4458ac,65408eb70d097eeb1f71111a,2,Baseline,공지현,normal
+1,64f02e44db83ec994f4458ac,65408f100d097eeb1f71117f,2,Main task,공지현,focus
+2,64f02e44db83ec994f4458ac,65408fd60d097eeb1f711274,2,Post task,공지현,normal
+3,64f02e44db83ec994f4458ac,654090210d097eeb1f7112d3,2,Post task 2,공지현,normal
+4,652f34b24a72cfe31e937188,6540683f0d097eeb1f71020a,2,Baseline,남궁석,normal
+5,652f34b24a72cfe31e937188,654068900d097eeb1f71026c,2,Main task,남궁석,focus
+6,652f34b24a72cfe31e937188,6540696c0d097eeb1f710306,2,Post task,남궁석,normal
+7,652f34b24a72cfe31e937188,654069bb0d097eeb1f71033b,2,Post task 2,남궁석,normal
+8,64f02e44db83ec994f4458ac,654082110d097eeb1f710770,2,Baseline,이정환,normal
+9,64f02e44db83ec994f4458ac,654082c80d097eeb1f71081d,2,Main task,이정환,focus
+10,64f02e44db83ec994f4458ac,6540838e0d097eeb1f71090f,2,Post task,이정환,normal
+11,64f02e44db83ec994f4458ac,654095080d097eeb1f7117a6,2,Baseline,노가람,normal
+12,64f02e44db83ec994f4458ac,6540955e0d097eeb1f711830,2,Main task,노가람,focus
+13,64f02e44db83ec994f4458ac,6540961a0d097eeb1f711942,2,Post task,노가람,normal
+14,64f02e44db83ec994f4458ac,654096640d097eeb1f711990,2,Post task 2,노가람,normal
+15,6520b92087cd1e07b476c618,65409c150d097eeb1f711c75,2,Baseline,박건영,normal
+16,6520b92087cd1e07b476c618,65409c5e0d097eeb1f711cd1,2,Main task,박건영,focus
+17,6520b92087cd1e07b476c618,65409d310d097eeb1f711dda,2,Post task,박건영,normal
+18,6520b92087cd1e07b476c618,65409d7c0d097eeb1f711e39,2,Post task 2,박건영,normal
+19,64f02e44db83ec994f4458ac,6540aae20d097eeb1f7123a7,2,Baseline,김보현,normal
+20,64f02e44db83ec994f4458ac,6540ab220d097eeb1f7123d6,2,Main task,김보현,focus
+21,64f02e44db83ec994f4458ac,6540ac260d097eeb1f712477,2,Post task,김보현,normal
+22,64f02e44db83ec994f4458ac,6540ac8d0d097eeb1f7124f0,2,Post task 2,김보현,normal
+23,651ce5a42c5d960f70ea2cb6,6540b4ad0d097eeb1f712885,2,Baseline,박종화,normal
+24,651ce5a42c5d960f70ea2cb6,6540b5000d097eeb1f7128c9,2,Main task,박종화,focus
+25,651ce5a42c5d960f70ea2cb6,6540b5be0d097eeb1f71295b,2,Post task,박종화,normal
+26,651ce5a42c5d960f70ea2cb6,6540b5be0d097eeb1f71295b,2,Post task 2,박종화,normal
+27,6530ca13cac8ae0cdd40e573,6541e5d30d097eeb1f71373b,2,Baseline,유영석,normal
+28,6530ca13cac8ae0cdd40e573,6541e61d0d097eeb1f713770,2,Main task,유영석,focus
+29,6530ca13cac8ae0cdd40e573,6541e6e20d097eeb1f7137e7,2,Post task,유영석,normal
+30,6530ca13cac8ae0cdd40e573,6541e7270d097eeb1f71381c,2,Post task 2,유영석,normal
+31,64f02e44db83ec994f4458ac,6541ec540d097eeb1f713aad,2,Baseline,김주영,normal
+32,64f02e44db83ec994f4458ac,6541ec930d097eeb1f713adc,2,Main task,김주영,focus
+33,64f02e44db83ec994f4458ac,6541ed4e0d097eeb1f713b59,2,Post task,김주영,normal
+34,64f02e44db83ec994f4458ac,6541ed8e0d097eeb1f713b88,2,Post task 2,김주영,normal
+35,65252f59ef0765a24be49f8c,6541f69b0d097eeb1f713e05,2,Baseline,이영규,normal
+36,65252f59ef0765a24be49f8c,6541f6e10d097eeb1f713e3a,2,Main task,이영규,focus
+37,65252f59ef0765a24be49f8c,6541f7a60d097eeb1f713eb7,2,Post task,이영규,normal
+38,65252f59ef0765a24be49f8c,6541f80c0d097eeb1f713eec,2,Post task 2,이영규,normal
+0,64f02e44db83ec994f4458ac,6540908c0d097eeb1f71134a,3,Baseline,공지현,rest
+1,64f02e44db83ec994f4458ac,654090d00d097eeb1f7113a6,3,Main task,공지현,focus
+2,64f02e44db83ec994f4458ac,654091a40d097eeb1f71149d,3,Post task,공지현,normal
+3,64f02e44db83ec994f4458ac,654092180d097eeb1f711503,3,Post task 2,공지현,normal
+4,652f34b24a72cfe31e937188,65406a3a0d097eeb1f710376,3,Baseline,남궁석,rest
+5,652f34b24a72cfe31e937188,65406a8a0d097eeb1f7103b1,3,Main task,남궁석,focus
+6,652f34b24a72cfe31e937188,65406b530d097eeb1f71042e,3,Post task,남궁석,normal
+7,652f34b24a72cfe31e937188,65406bbb0d097eeb1f71046f,3,Post task 2,남궁석,normal
+8,64f02e44db83ec994f4458ac,6540847b0d097eeb1f710a30,3,Baseline,이정환,rest
+9,64f02e44db83ec994f4458ac,654084c00d097eeb1f710a8f,3,Main task,이정환,focus
+10,64f02e44db83ec994f4458ac,6540859a0d097eeb1f710b9b,3,Post task,이정환,normal
+11,64f02e44db83ec994f4458ac,654085e20d097eeb1f710c09,3,Post task 2,이정환,normal
+12,64f02e44db83ec994f4458ac,654096d40d097eeb1f7119d1,3,Baseline,노가람,rest
+13,64f02e44db83ec994f4458ac,6540971a0d097eeb1f711a06,3,Main task,노가람,focus
+14,64f02e44db83ec994f4458ac,654097e20d097eeb1f711a83,3,Post task,노가람,normal
+15,64f02e44db83ec994f4458ac,6540982f0d097eeb1f711abc,3,Post task 2,노가람,normal
+16,6520b92087cd1e07b476c618,65409de70d097eeb1f711ec2,3,Baseline,박건영,rest
+17,6520b92087cd1e07b476c618,65409e2f0d097eeb1f711f21,3,Main task,박건영,focus
+18,6520b92087cd1e07b476c618,65409f0f0d097eeb1f712020,3,Post task,박건영,normal
+19,6520b92087cd1e07b476c618,65409f5b0d097eeb1f712055,3,Post task 2,박건영,normal
+20,64f02e44db83ec994f4458ac,6540ad130d097eeb1f712535,3,Baseline,김보현,rest
+21,64f02e44db83ec994f4458ac,6540ad620d097eeb1f71256a,3,Main task,김보현,focus
+22,64f02e44db83ec994f4458ac,6540ae2a0d097eeb1f7125eb,3,Post task,김보현,normal
+23,64f02e44db83ec994f4458ac,6540ae720d097eeb1f71261a,3,Post task 2,김보현,normal
+24,651ce5a42c5d960f70ea2cb6,6540b6930d097eeb1f7129f4,3,Baseline,박종화,rest
+25,651ce5a42c5d960f70ea2cb6,6540b6dc0d097eeb1f712a29,3,Main task,박종화,focus
+26,651ce5a42c5d960f70ea2cb6,6540b7950d097eeb1f712ac0,3,Post task,박종화,normal
+27,651ce5a42c5d960f70ea2cb6,6540b7e30d097eeb1f712af5,3,Post task 2,박종화,normal
+28,6530ca13cac8ae0cdd40e573,6541e7a70d097eeb1f713869,3,Baseline,유영석,rest
+29,6530ca13cac8ae0cdd40e573,6541e7f00d097eeb1f71389e,3,Main task,유영석,focus
+30,6530ca13cac8ae0cdd40e573,6541e8ad0d097eeb1f713924,3,Post task,유영석,normal
+31,6530ca13cac8ae0cdd40e573,6541e8f00d097eeb1f713959,3,Post task 2,유영석,normal
+32,64f02e44db83ec994f4458ac,6541edcd0d097eeb1f713bb7,3,Baseline,김주영,rest
+33,64f02e44db83ec994f4458ac,6541ee160d097eeb1f713bec,3,Main task,김주영,focus
+34,64f02e44db83ec994f4458ac,6541eedb0d097eeb1f713c65,3,Post task,김주영,normal
+35,64f02e44db83ec994f4458ac,6541ef520d097eeb1f713ca7,3,Post task 2,김주영,normal
+36,65252f59ef0765a24be49f8c,6541f8650d097eeb1f713f2d,3,Baseline,이영규,rest
+37,65252f59ef0765a24be49f8c,6541f8aa0d097eeb1f713f62,3,Main task,이영규,focus
+38,65252f59ef0765a24be49f8c,6541f96a0d097eeb1f713ff9,3,Post task,이영규,normal
+39,65252f59ef0765a24be49f8c,6541f9ac0d097eeb1f71402e,3,Post task 2,이영규,normal
